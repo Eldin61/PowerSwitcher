@@ -1,0 +1,1 @@
+A simple windows power plan manager.
